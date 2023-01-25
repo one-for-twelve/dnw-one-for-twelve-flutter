@@ -1,0 +1,8 @@
+{
+  "minimumLogLevel": "debug",
+  "backendBaseUrl": "https://localhost:5001",
+  "__aws_backendBaseUrl": "https://localhost:5001",
+  "__azure_backendBaseUrl__": "https://localhost:5001",
+  "__google_backendBaseUrl__": "http://localhost:8082",
+  "ignoreInvalidCertificates": true
+}
